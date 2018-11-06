@@ -31,7 +31,7 @@ con sdfsdf = {name : "Vasia", surname: "Lol"}
 
 const ssdf = [];
 
-const isBlue = false;
+const isBlue = true;
 
 let color = "green";
 
