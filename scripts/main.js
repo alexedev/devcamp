@@ -19,7 +19,7 @@ sum(5, 4);
 
 var myVariable;
 
-const text = 'lol';
+const text = 'lol1';
 
 let changeable = 1;
 
