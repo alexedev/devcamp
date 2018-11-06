@@ -43,3 +43,5 @@ const myImage = document.querySelector('img');
 myImage.onClick = () => {
   console.log('privet mir2');
 };
+
+const param = 'dsfdsf';
