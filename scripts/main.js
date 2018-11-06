@@ -11,8 +11,6 @@ function sum(x, y) {
   return x + y;
 }
 
-const sum = (x,y) => {x + y}
-
 var list = [5, 4, 3, 6];
 
 sum(5, 4);
@@ -27,7 +25,7 @@ const sfdsf = () => {
   
 }
 
-con sdfsdf = {name : "Vasia", surname: "Lol"}
+con sdfsdf = {name : "Vasia", surname: "Lol"};
 
 const ssdf = [];
 
@@ -46,3 +44,6 @@ if (isBlue === true) { // fdsfdsfsdfsfsdf
 } else {
   
 }
+const myImage = document.querySelector('img');
+
+myImage.onClick = () => {console.log("privet")};
