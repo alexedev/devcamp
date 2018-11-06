@@ -37,8 +37,9 @@ if (isBlue === true) {
 } else if (sdfdsfds === 'sfsdf') {
   color = 'purple';
 } else {
-  
 }
 const myImage = document.querySelector('img');
 
-myImage.onClick = () => {console.log("privet")};
+myImage.onClick = () => {
+  console.log('privet mir');
+};
