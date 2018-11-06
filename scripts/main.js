@@ -41,5 +41,5 @@ if (isBlue === true) {
 const myImage = document.querySelector('img');
 
 myImage.onClick = () => {
-  console.log('privet mir');
+  console.log('privet mir1');
 };
