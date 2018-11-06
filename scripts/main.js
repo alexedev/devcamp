@@ -13,7 +13,7 @@ function sum(x, y) {
 
 const sum = (x,y) => {x + y}
 
-var list = [5, 4, 3, 5];
+var list = [5, 4, 3, 6];
 
 sum(5, 4);
 
