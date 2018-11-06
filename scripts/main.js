@@ -24,7 +24,7 @@ const text = 'lol1';
 let changeable = 1;
 
 const sfdsf = () => {
-
+  
 }
 
 con sdfsdf = {name : "Vasia", surname: "Lol"}
