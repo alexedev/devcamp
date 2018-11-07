@@ -38,10 +38,15 @@ if (isBlue === true) {
   color = 'purple';
 } else {
 }
-const myImage = document.querySelector('img');
+var myImage = document.querySelector('img');
 
-myImage.onClick = () => {
-  console.log('privet mir2');
+myImage.onclick = function() {
+  var mySrc = myImage.getAttribute('src');
+  if (mySrc === 'images/prague.jpg') {
+    myImage.setAttribute('src', 'images/dubai.jpg');
+  } else {
+    myImage.setAttribute('src', 'images/prague.jpg');
+  }
 };
 
 const param = 'dsfdsf';
